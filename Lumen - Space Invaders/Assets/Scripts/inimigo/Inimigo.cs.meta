@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6cc190c407b1e2343a354fc5bf520289
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerStats: {instanceID: 0}
+  - enemyController: {instanceID: 0}
+  - shootPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
