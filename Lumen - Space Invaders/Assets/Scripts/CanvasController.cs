@@ -18,7 +18,7 @@ public class CanvasController : MonoBehaviour
 
     void Start()
     {
-        messageText.text = "PRESS [ENTER] TO START!"; //Texto inicial que pede para o jogador começar o jogo.
+        messageText.text = "PRESS ENTER TO START!"; //Texto inicial que pede para o jogador começar o jogo.
     }
 
     void Update()
